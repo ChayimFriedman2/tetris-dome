@@ -7,6 +7,9 @@
       "label": "Run with DOME",
       "type": "shell",
       "command": "dome",
+      "args": [
+        "-c"
+      ],
       "problemMatcher": []
     }
   ]
